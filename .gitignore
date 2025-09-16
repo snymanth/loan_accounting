@@ -1,0 +1,15 @@
+# Maven build artifacts
+target/
+*.class
+
+# IDE files
+.netbeans_automatic_build
+*.jar
+*.properties
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
