@@ -1,7 +1,0 @@
-/home/runner/work/loan_accounting/loan_accounting/src/main/java/com/jumo/loan_accounting/LoanAccounting.java
-/home/runner/work/loan_accounting/loan_accounting/src/main/java/com/jumo/loan_accounting/domain/Loan.java
-/home/runner/work/loan_accounting/loan_accounting/src/main/java/com/jumo/loan_accounting/services/LoanAnalyser.java
-/home/runner/work/loan_accounting/loan_accounting/src/main/java/com/jumo/loan_accounting/services/io/CSVBufferedReader.java
-/home/runner/work/loan_accounting/loan_accounting/src/main/java/com/jumo/loan_accounting/services/io/CSVBufferedWriter.java
-/home/runner/work/loan_accounting/loan_accounting/src/main/java/com/jumo/loan_accounting/services/io/LoanInputCSVFile.java
-/home/runner/work/loan_accounting/loan_accounting/src/main/java/com/jumo/loan_accounting/services/io/LoanOutputCSVFile.java

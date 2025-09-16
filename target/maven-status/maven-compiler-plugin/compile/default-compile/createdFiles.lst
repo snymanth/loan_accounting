@@ -1,7 +1,0 @@
-com/jumo/loan_accounting/LoanAccounting.class
-com/jumo/loan_accounting/services/io/LoanOutputCSVFile.class
-com/jumo/loan_accounting/domain/Loan.class
-com/jumo/loan_accounting/services/io/CSVBufferedReader.class
-com/jumo/loan_accounting/services/io/LoanInputCSVFile.class
-com/jumo/loan_accounting/services/LoanAnalyser.class
-com/jumo/loan_accounting/services/io/CSVBufferedWriter.class
